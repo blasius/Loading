@@ -20,7 +20,7 @@
 ###### Step 2. Add the dependency
 ```
 	dependencies {
-		implementation 'com.github.lizihanglove:Loading:1.0.0'
+		implementation 'com.github.blasius:Loading:1.0.2'
 	}
 ```
 
@@ -40,7 +40,7 @@
   loading.dismiss()
 ```
 
-# license [![GitHub license](https://img.shields.io/github/license/lizihanglove/Loading.svg)](https://github.com/lizihanglove/Loading/blob/master/LICENSE)
+# license [![GitHub license](https://img.shields.io/github/license/lizihanglove/Loading.svg)](https://github.com/blasius/Loading/blob/master/LICENSE)
 
 
 
